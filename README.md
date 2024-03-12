@@ -1,4 +1,4 @@
-# Ada | Santander Coders 2023-2024 | Trilha Dgit staata Science
+# Ada | Santander Coders 2023-2024 | Trilha Data Science ADA
 
 Este repositório contém os projetos desenvolvidos durante o curso de Data Science, uma parceria entre a Ada Tech e o Santander Open Academy. O curso tem um total de 324 horas e é dividido em vários módulos, cada um focado em um aspecto fundamental da ciência de dados.
 
